@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pickeringplumbingpros.ca/sitemap-index.xml
